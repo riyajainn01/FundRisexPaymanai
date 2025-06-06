@@ -358,7 +358,7 @@ const CreateCampaignPage: React.FC = () => {
               
               <div>
                 <label htmlFor="creator" className="block text-gray-700 mb-2 font-medium">
-                  Creator Name / Organization*
+                 Payee Name / Organization*
                 </label>
                 <input
                   type="text"
